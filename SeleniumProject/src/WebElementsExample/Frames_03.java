@@ -7,6 +7,10 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class Frames_03 {
 
+	public void t1()
+	{
+		
+	}
 	public static void main(String[] args) {
 		System.setProperty("webdriver.chrome.driver", "F:\\kanchan\\workspace\\classpractice\\src\\StringPackage\\SeleniumProject\\Resources\\chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
